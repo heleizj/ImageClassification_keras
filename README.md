@@ -3,4 +3,4 @@
 此项目包含了一些实验数据可视化的作图代码。
 visualize.py为可视化cnn feature maps的代码。
 可视化feature maps:
-![image](https://github.com/conv2_63.png)
+![image](https://github.com/relu2_63.png)
